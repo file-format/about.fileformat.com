@@ -27,7 +27,7 @@ menu:
 <div class="panel-body">
 <ul class="list-unstyled">
 <li><img src="/templates/brand/images/icons/CountryFlag-US.png"> USA</li>
-<li><i class="fa fa-evelope"> </i> <span id="cloak8ddcbbbe8307d3be0c3de9d63f3e60b1">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak8ddcbbbe8307d3be0c3de9d63f3e60b1').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy8ddcbbbe8307d3be0c3de9d63f3e60b1='s&#97;l&#101;s'+'&#64;';addy8ddcbbbe8307d3be0c3de9d63f3e60b1=addy8ddcbbbe8307d3be0c3de9d63f3e60b1+'f&#105;l&#101;f&#111;rm&#97;t'+'&#46;'+'c&#111;m';var addy_text8ddcbbbe8307d3be0c3de9d63f3e60b1='s&#97;l&#101;s@f&#105;l&#101;f&#111;rm&#97;t.c&#111;m&nbsp;';document.getElementById('cloak8ddcbbbe8307d3be0c3de9d63f3e60b1').innerHTML+='<a '+path+'\''+prefix+':'+addy8ddcbbbe8307d3be0c3de9d63f3e60b1+'\'>'+addy_text8ddcbbbe8307d3be0c3de9d63f3e60b1+'<\/a>';</script></li>
+<li><i class="fa fa-evelope">&nbsp;</i> <span id="cloakeec585c567c583255a23e16a6bec0377"><a href="mailto:sales@fileformat.com">sales@fileformat.com&nbsp;</a></span></li>
 </ul>
 </div>
 </div>
@@ -39,7 +39,7 @@ menu:
 <div class="panel-body">
 <ul class="list-unstyled">
 <li><img src="/templates/brand/images/icons/CountryFlag-UK.png"> UK</li>
-<li><i class="fa fa-evelope"> </i> <span id="cloak896b9abc3cd880adfa1ba5281a7d53e4">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak896b9abc3cd880adfa1ba5281a7d53e4').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy896b9abc3cd880adfa1ba5281a7d53e4='s&#97;l&#101;s'+'&#64;';addy896b9abc3cd880adfa1ba5281a7d53e4=addy896b9abc3cd880adfa1ba5281a7d53e4+'f&#105;l&#101;f&#111;rm&#97;t'+'&#46;'+'c&#111;m';var addy_text896b9abc3cd880adfa1ba5281a7d53e4='s&#97;l&#101;s@f&#105;l&#101;f&#111;rm&#97;t.c&#111;m&nbsp;';document.getElementById('cloak896b9abc3cd880adfa1ba5281a7d53e4').innerHTML+='<a '+path+'\''+prefix+':'+addy896b9abc3cd880adfa1ba5281a7d53e4+'\'>'+addy_text896b9abc3cd880adfa1ba5281a7d53e4+'<\/a>';</script></li>
+<li><i class="fa fa-evelope">&nbsp;</i> <span id="cloakdda47dadddbbc5bc44b40856cbe33f3d"><a href="mailto:sales@fileformat.com">sales@fileformat.com&nbsp;</a></span></li>
 </ul>
 </div>
 </div>
@@ -50,7 +50,7 @@ menu:
 <div class="panel-body">
 <ul class="list-unstyled">
 <li><img src="/templates/brand/images/icons/CountryFlag-AUSTRALIA.png"> Australia</li>
-<li><i class="fa fa-evelope"> </i> <span id="cloak5034945bfb4e7869b4898a20bc7906d0">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak5034945bfb4e7869b4898a20bc7906d0').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy5034945bfb4e7869b4898a20bc7906d0='s&#97;l&#101;s'+'&#64;';addy5034945bfb4e7869b4898a20bc7906d0=addy5034945bfb4e7869b4898a20bc7906d0+'f&#105;l&#101;f&#111;rm&#97;t'+'&#46;'+'c&#111;m';var addy_text5034945bfb4e7869b4898a20bc7906d0='s&#97;l&#101;s@f&#105;l&#101;f&#111;rm&#97;t.c&#111;m&nbsp;';document.getElementById('cloak5034945bfb4e7869b4898a20bc7906d0').innerHTML+='<a '+path+'\''+prefix+':'+addy5034945bfb4e7869b4898a20bc7906d0+'\'>'+addy_text5034945bfb4e7869b4898a20bc7906d0+'<\/a>';</script></li>
+<li><i class="fa fa-evelope">&nbsp;</i> <span id="cloakf17c9497fd9efc6972ae32da4763ffdc"><a href="mailto:sales@fileformat.com">sales@fileformat.com&nbsp;</a></span></li>
 </ul>
 </div>
 </div>
