@@ -22,7 +22,7 @@ menu:
 Once we receive your DMCA notice, we will review it, make a determination on the infringement and notify you of the outcome in a timely manner. If we find that the DMCA requirements have been satisfied, we will remove the infringing content as quickly as possible.</div>
 <div class="box1">
 <h5>DMCA notice requirements</h5>
-<p>The DMCA notice must include the following:</p>
+<p>The DMCA notice must include the following:-</p>
 <ul>
 <li>A description of the copyrighted work you claim is being infringed or, if the claim involves multiple works, a representative list of such works.</li>
 <li>A description of the material or link you claim is infringing (or the subject of infringing activity) and to which access is to be disabled, including at a minimum, if applicable, the URL of the link shown on the site or the exact location where such material may be found.</li>
