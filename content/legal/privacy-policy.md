@@ -19,7 +19,7 @@ menu:
 <p style="text-align: right;"><em>Last Updated: </em><i>11 December 2019</i></p>
 <h5> </h5>
 <h3 id="1">1.  General</h3>
-<p>This web site is maintained by Aspose Pty Ltd, Suite 163, 79 Longueville Road, Lane Cove, NSW, 2066, Australia also known as "FileFormat". By accessing or using any website owned by Aspose Pty Ltd, you agree to the terms of the FileFormat Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. </p>
+<p>This web site is maintained by Openize Pty Ltd, Suite 163, 79 Longueville Road, Lane Cove, NSW, 2066, Australia also known as "FileFormat". By accessing or using any website owned by Openize Pty Ltd, you agree to the terms of the FileFormat Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. </p>
 <p>For the purposes of this policy,</p>
 <p>FileFormat defines the term <strong>“Visitor”</strong> as an individual that visits any page of our front-end website (for example <a href="http://www.fileformat.com">www.fileformat.com</a>) or uses our products, web apps or mobile apps.</p>
 <p>The term <strong>“User”</strong> as an entity with which FileFormat has an established relationship with when a Visitor uses its products or signs up for an account on the website.</p>

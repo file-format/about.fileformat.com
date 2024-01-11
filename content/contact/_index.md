@@ -59,5 +59,5 @@ menu:
 <div class="clearall"> </div>
 <div class="box1">
 <h5>Mailing Address:</h5>
-<p>Aspose Pty Ltd, Suite 163, 79 Longueville Road, Lane Cove, NSW, 2066, Australia.</p>
+<p>Openize Pty Ltd, Suite 163, 79 Longueville Road, Lane Cove, NSW, 2066, Australia.</p>
 <a class="btn-sm" style="margin: -9px;" href="/contact/complaint" rel="alternate">File a Complaint</a> | <a class="btn-sm" href="/legal/paperless-policy" rel="alternate">Paperless Policy</a></div>
