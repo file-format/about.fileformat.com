@@ -19,7 +19,7 @@ menu:
 <div class="box1">
 <p>This page addresses common questions about investment, mergers and acquisitions.</p>
 <p><strong>Funding</strong></p>
-<p>We are self funded and do not accept any external investment-</p>
+<p>We are self funded and do not accept any external investment.</p>
 <p><strong>Mergers &amp; Acquisitions</strong></p>
 <p>We may acquire a business from any region, that has a monthly recurring revenue of at least 5 figures and shows the potential for growth.</p>
 <p>If you have an opportunity which fits this criteria please complete the form below. We'll review and come back to you with a response.</p>
